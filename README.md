@@ -7,7 +7,8 @@ A Discord webhook spammer that supports spamming multiple webhooks at the same t
 
 This script is meant to be used for educational purposes only.<br>
 I am not responsible if your account gets terminated from Discord.<br>
-I do not recommend anyone use this for malicious purposes.
+I do not recommend anyone use this for malicious purposes.<br>
+Please be kind enough to give credit to me. <3
 
 ###### Starting
 
