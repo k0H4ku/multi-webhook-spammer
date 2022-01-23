@@ -34,3 +34,6 @@ A: Possibly.
 
 ### Q: What happens when I get ratelimited by Discord?
 A: The script automatically fetches how long the wait time is, and waits accordingly before continuing.
+
+### Q: How long did this take you to make?
+A: 1 hour and 28 minutes.
